@@ -1,2 +1,2 @@
 # DatabaseApp
-Aplikacja umożliwiająca zapis i odczyt danych z bazy danych plus utworzenie konta
+Aplikacja umożliwiająca zapis i odczyt danych z bazy danych oraz utworzenie konta
